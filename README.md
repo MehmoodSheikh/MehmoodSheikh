@@ -14,7 +14,7 @@
 
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehmoodSheikh&theme=transparent"></p>
 
-# LINKS
+# 🔗 LINKS
 
 <a href="mailto:mehmoodsheikh312@gmail.com">
     <img height="32" align="left" alt="Mail" src="/icons/gmail.png" />
