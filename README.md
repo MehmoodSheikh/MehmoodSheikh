@@ -10,7 +10,7 @@
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MehmoodSheikh&theme=transparent"></p> </br>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MehmoodSheikh&theme=transparent&hide_border=true"></p> </br>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=MehmoodSheikh&theme=transparent"></p> </br>
 
 <p align="center"><img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MehmoodSheikh&theme=transparent"></p>
 
