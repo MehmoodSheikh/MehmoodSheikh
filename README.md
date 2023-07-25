@@ -2,6 +2,23 @@
   <img src="/githubgif.gif" alt="Hi there, I'm Mehmood Sheikh 👋 ">
 </p>
 
+# ⚡ LANGUAGES
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&perline=6" />
+  </a>
+</p>
+
+# 🛠 SKILLS
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&perline=6" />
+  </a>
+</p>
+
+
 # 📊 GITHUB STATS
 
 <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=MehmoodSheikh&color=blue&style=for-the-badge"></p> </br>
