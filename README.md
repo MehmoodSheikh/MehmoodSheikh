@@ -2,11 +2,21 @@
   <img src="/githubgif.gif" alt="Hi there, I'm Mehmood Sheikh 👋 ">
 </p>
 
-# ⚡ SKILLS & LANGUAGES
+# ⚡ TECHNOL0GIES & LANGUAGES
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cs,css,html,java,js,jquery,python,nodejs,mysql,solidity&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,css&perline=6" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,java,js&perline=6" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=jquery,python,nodejs,mysql,solidity&perline=6" />
   </a>
 </p>
 
@@ -14,14 +24,12 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,postman,visualstudio,vscode,figma,ai,ps&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,postman,visualstudio&perline=6" />
   </a>
 </p>
-
-
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=&perline=6" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,ai,ps&perline=6" />
   </a>
 </p>
 
