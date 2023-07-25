@@ -2,19 +2,27 @@
   <img src="/githubgif.gif" alt="Hi there, I'm Mehmood Sheikh 👋 ">
 </p>
 
-# ⚡ LANGUAGES
+# ⚡ SKILLS & LANGUAGES
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&perline=6" />
+    <img src="https://skillicons.dev/icons?i=cs,css,html,java,js,jquery,python,nodejs,mysql,solidity&perline=6" />
   </a>
 </p>
 
-# 🛠 SKILLS
+# 🛠 TOOLS
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,postman,visualstudio,vscode,figma,ai,ps&perline=6" />
+  </a>
+</p>
+
+# DESIGN
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=&perline=6" />
   </a>
 </p>
 
