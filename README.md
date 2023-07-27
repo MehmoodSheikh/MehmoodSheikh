@@ -17,6 +17,9 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/JAVASCRIPT-ffd600?style=flat-square&logo=javascript&logoColor=000000&labelColor=ffd600&color=ffd600">
   
   <img alt="Static Badge" src="https://img.shields.io/badge/BOOTSTRAP-673ab7?style=flat-square&logo=bootstrap&logoColor=000000&labelColor=673ab7&color=673ab7">
+  
+  <img alt="Static Badge" src="https://img.shields.io/badge/JAVA-1565c0?style=flat-square&logo=javascript&labelColor=1565c0&color=1565c0">
+  
 </p>
 
 <p align="center"> 
